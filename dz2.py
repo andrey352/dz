@@ -25,7 +25,7 @@
 # for ind, el in enumerate(my_str):
 #     print(ind, el)
 
-my_list = [1, 2, 3, 4, 5]
-for i in range(1, len(my_list), 2):
-    my_list.insert(i-1, my_list.pop(i))
-    print(my_list)
+# my_list = [1, 2, 3, 4, 5]
+# for i in range(1, len(my_list), 2):
+#     my_list.insert(i-1, my_list.pop(i))
+#     print(my_list)
